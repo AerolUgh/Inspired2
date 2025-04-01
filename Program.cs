@@ -5,6 +5,7 @@ class WinHerBack
 {
     static void Main()
     {
+        Console.Clear();
         Console.Title = "For My Love";
 
         // Romantic Introduction
